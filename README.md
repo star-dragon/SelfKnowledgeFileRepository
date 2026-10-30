@@ -1,0 +1,2 @@
+# SelfKnowledgeFileRepository
+用来存放一些由AI生成的知识文档，供我自己遗忘的时候查阅。如果这些文档能帮助到其他人，那也很好
